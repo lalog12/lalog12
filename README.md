@@ -1,6 +1,6 @@
-## Welcome to my profile!
+## Welcome
 
-Thanks for swooping in. I'm an aspiring **software engineer** and **computer engineering** student at Cal Poly SLO.
+ My name is Eduardo and I'm a fourth year **computer engineering** student at Cal Poly.
 
 
 
