@@ -2,7 +2,8 @@
 
  My name is Eduardo and I'm a fourth year **computer engineering** student at Cal Poly.
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **lalog12/lalog12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
