@@ -1,6 +1,8 @@
-## Hello!
+## Welcome to my profile!
 
-I'm an aspiring software engineer/Computer Engineering Student at Cal Poly.
+Thanks for swooping in. I'm an aspiring **software engineer** and **computer engineering** student at Cal Poly SLO.
+
+
 
 <!--
 **lalog12/lalog12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
