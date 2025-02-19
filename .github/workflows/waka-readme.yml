@@ -1,10 +1,8 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
@@ -12,6 +10,12 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: actions/checkout@v3  # Add this step to checkout your repository
+        with:
+          fetch-depth: 1
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true        # Optional: adds a title to your stats
+          BLOCKS: ░█             # Optional: customize the blocks display
+          TIME_RANGE: last_7_days # Optional: specify the time range
