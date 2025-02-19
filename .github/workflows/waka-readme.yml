@@ -10,16 +10,14 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      # First, checkout the repository
       - uses: actions/checkout@v2
-
-      # Then run the WakaReadme action
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # This is also required
-          SHOW_LINES_OF_CODE: "True"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TIME_RANGE: "all_time"
           LANG_COUNT: 5
           SHOW_TIME: "True"
-          SHOW_UPDATED_DATE: "True"
+          SHOW_TOTAL: "True"        # This is a valid parameter if you want total time
+          BLOCKS: ">>"              # Optional: Changes the blocks display
+          SHOW_TITLE: true          # Optional: Shows the "📊 Weekly development breakdown" title
