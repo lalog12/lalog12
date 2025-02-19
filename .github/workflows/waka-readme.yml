@@ -12,7 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # First, we need to checkout the repository
-      - uses: actions/checkout@v2
       
       # Then we run the WakaReadme action with its configuration
       - uses: athul/waka-readme@master
