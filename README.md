@@ -3,6 +3,12 @@
  My name is Eduardo and I'm a fourth year **computer engineering** student at Cal Poly.
 
 <!--START_SECTION:waka-->
+
+```txt
+Makefile   10 mins         ████████████████████████▓   98.70 %
+JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
