@@ -5,8 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Makefile   10 mins         ████████████████████████▓   98.70 %
-JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+From: 18 February 2025 - To: 19 February 2025
+
+Total Time: 10 mins
+
+Makefile   10 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   98.70 %
+JSON       0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   01.30 %
 ```
 
 <!--END_SECTION:waka-->
