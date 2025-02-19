@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello!
+
+I'm an aspiring software engineer/Computer Engineering Student at Cal Poly.
 
 <!--
 **lalog12/lalog12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
