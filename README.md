@@ -5,12 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2025 - To: 19 February 2025
+From: 18 February 2025 - To: 20 February 2025
 
-Total Time: 10 mins
+Total Time: 2 hrs 37 mins
 
-Makefile   10 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   98.70 %
-JSON       0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   01.30 %
+YAML       1 hr 54 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   72.39 %
+Markdown   32 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   20.93 %
+Makefile   10 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   06.52 %
+JSON       0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   00.09 %
+Other      0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   00.08 %
 ```
 
 <!--END_SECTION:waka-->
