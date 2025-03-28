@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2025 - To: 27 March 2025
+From: 18 February 2025 - To: 28 March 2025
 
-Total Time: 50 hrs 40 mins
+Total Time: 52 hrs 7 mins
 
-C             42 hrs 2 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   82.88 %
-JavaScript    2 hrs 10 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   04.30 %
-YAML          1 hr 54 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   03.75 %
-Makefile      1 hr 16 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   02.52 %
-Python        1 hr 6 mins     >>>>>>>>>>>>>>>>>>>>>>>>>   02.20 %
+C             43 hrs 5 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   82.60 %
+JavaScript    2 hrs 34 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   04.94 %
+YAML          1 hr 54 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   03.64 %
+Makefile      1 hr 16 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   02.45 %
+Python        1 hr 6 mins     >>>>>>>>>>>>>>>>>>>>>>>>>   02.14 %
 ```
 
 <!--END_SECTION:waka-->
