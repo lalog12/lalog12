@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2025 - To: 17 April 2025
+From: 18 February 2025 - To: 18 April 2025
 
-Total Time: 77 hrs 5 mins
+Total Time: 78 hrs 52 mins
 
-C             64 hrs 54 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   83.91 %
-JavaScript    3 hrs 7 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   04.04 %
-YAML          1 hr 54 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   02.46 %
-Python        1 hr 29 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   01.92 %
-C++           1 hr 25 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   01.83 %
+C             66 hrs 15 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   83.71 %
+JavaScript    3 hrs 7 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   03.95 %
+YAML          1 hr 54 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   02.40 %
+Python        1 hr 29 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   01.88 %
+C++           1 hr 25 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   01.79 %
 ```
 
 <!--END_SECTION:waka-->
