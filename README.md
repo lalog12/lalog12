@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2025 - To: 04 October 2025
+From: 18 February 2025 - To: 05 October 2025
 
-Total Time: 150 hrs 59 mins
+Total Time: 151 hrs 46 mins
 
-C             82 hrs 13 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   54.26 %
-C++           27 hrs 57 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   18.45 %
-Python        14 hrs 4 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   09.29 %
-HTML          9 hrs 15 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   06.11 %
-JavaScript    3 hrs 37 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   02.40 %
+C             82 hrs 13 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   53.98 %
+C++           27 hrs 57 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   18.36 %
+Python        14 hrs 51 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   09.75 %
+HTML          9 hrs 15 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   06.08 %
+JavaScript    3 hrs 37 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   02.38 %
 ```
 
 <!--END_SECTION:waka-->
