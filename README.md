@@ -1,6 +1,6 @@
 ## Welcome
 
- My name is Eduardo and I'm a fourth year **computer engineering** student at Cal Poly.
+ My name is Eduardo and I'm a Computer Engineering graduate from Cal Poly San Luis Obispo. I'm a graduate student at California State University, Northridge studying Electrical Engineering! I'm interested in electrical test engineering and embedded systems. 
 
 <!--START_SECTION:waka-->
 
