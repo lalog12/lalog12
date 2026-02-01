@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2025 - To: 24 January 2026
+From: 18 February 2025 - To: 31 January 2026
 
-Total Time: 185 hrs 19 mins
+Total Time: 186 hrs 5 mins
 
-C                                  82 hrs 26 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   44.30 %
-C++                                34 hrs 17 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   18.42 %
-Python                             21 hrs 31 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   11.57 %
-HTML                               11 hrs 13 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   06.03 %
-C#                                 10 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   05.56 %
+C                                  82 hrs 26 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   44.12 %
+C++                                34 hrs 17 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   18.35 %
+Python                             21 hrs 31 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   11.52 %
+HTML                               11 hrs 13 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   06.00 %
+C#                                 10 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   05.54 %
 ```
 
 <!--END_SECTION:waka-->
