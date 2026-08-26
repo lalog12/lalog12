@@ -5,9 +5,6 @@ on:
   schedule:
     - cron: "17 8 15 * *"
 
-runs:
-  using: 'node24'
-  main: 'main.js'
 
 
 jobs:
